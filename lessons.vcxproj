@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C语言程序结构.c" />
-    <ClCompile Include="示例：printf用法.c" />
+    <ClCompile Include="C语言输入输出.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

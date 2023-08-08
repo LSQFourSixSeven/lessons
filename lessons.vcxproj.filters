@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="示例：printf用法.c">
+    <ClCompile Include="C语言输入输出.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="C语言程序结构.c">
