@@ -1,5 +1,5 @@
 /*此部分代码被称为头文件*/
-#include "stdio.h"; //预处理文件，包含了stdio.h这一头文件
+#include "stdio.h"; //预处理文件，引入了stdio.h这一头文件
 /*以上部分代码被称为头文件*/
 
 void main(void) //定义返回类型为void且名为main的函数，main在程序中会作为函数，所有程序会从main函数开始执行
