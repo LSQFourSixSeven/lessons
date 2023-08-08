@@ -19,7 +19,6 @@ void main(void)
 	unsigned char input_gc;
 	printf("请输入一个字符:");//显示输入提示
 	input_gc = getchar();//获取字符
-
 	printf("\nYou entered: ");//显示输出提示
 	putchar(input_gc);//输出所输入的字符
 	printf("\n");
